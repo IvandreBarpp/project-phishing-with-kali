@@ -9,6 +9,6 @@ Método de ataque: (2) Site Cloner
 Obtendo o endereço da máquina: ifconfig
 URL para clone: https://www.instagram.com
 
-# Resultados
+# Resultado
 
 ![Phishing Test](https://github.com/user-attachments/assets/f188b580-2530-40e8-acdc-60e2826a4caf)
